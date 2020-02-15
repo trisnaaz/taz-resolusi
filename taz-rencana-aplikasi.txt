@@ -1,0 +1,7 @@
+RENCANA APLIKASI TAZ
+
+- Ojek Online
+  - mencari tutorial
+  - mencari bahasa pemrograman yg cocok
+- AI
+- GIS
