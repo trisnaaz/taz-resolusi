@@ -8,4 +8,5 @@ RENCANA APLIKASI TAZ
   - vue
   - react
   - adnroid studio
+  - node
 - GIS
