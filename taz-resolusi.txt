@@ -1,0 +1,5 @@
+TAZ RESOLUSI
+- Belajar LARAVEL
+- Belajar Python
+- Belajar Django
+- Membuat SkRIPSI
