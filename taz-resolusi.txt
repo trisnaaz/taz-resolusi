@@ -3,5 +3,5 @@ TAZ RESOLUSI
 - Belajar Python
 - Belajar Django
 - Membuat SkRIPSI
-- Membuat Aplikasi Point Of Sales
 - Membuat Aplikasi Pendidikan
+- Membuat Aplikasi ERP
