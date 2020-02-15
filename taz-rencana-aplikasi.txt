@@ -5,7 +5,8 @@ RENCANA APLIKASI TAZ
   - mencari bahasa pemrograman yg cocok
 - AI
 - Mobile App
-  - angular
-  - react
   - vue
+  - react
+  - adnroid studio
+  - node
 - GIS
